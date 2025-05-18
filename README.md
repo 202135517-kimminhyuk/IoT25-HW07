@@ -32,6 +32,6 @@ The resulting regression equation was:
 
 ## Observations
 
-- **Although the signal measurements were highly inconsistent and unstable during testing, the resulting data point did not qualify as an outlier based on the fitted regression line, which was satisfying.**
+**Although the signal measurements were highly unstable during testing, the resulting data point did not qualify as an outlier based on the fitted regression line, which was satisfying.**
 
 
