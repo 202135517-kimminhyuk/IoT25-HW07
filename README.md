@@ -1,5 +1,5 @@
 ##Youtube vedio link
-basic:https://www.youtube.com/shorts/CXoRLDerSnw
+basic:https://www.youtube.com/shorts/CXoRLDerSnw\n
 Advanced:https://www.youtube.com/shorts/s4tmrshEapU
 
 
