@@ -30,3 +30,8 @@ A linear regression was applied to estimate the relationship between **Distance 
 The resulting regression equation was:
 <img width="772" alt="스크린샷 2025-05-18 오후 7 28 45" src="https://github.com/user-attachments/assets/6eb96b64-9fce-4e67-a609-002bbf46bf64" />
 
+## Observations
+
+- **Although the signal measurements were highly inconsistent and unstable during testing, the resulting data point did not qualify as an outlier based on the fitted regression line, which was satisfying.**
+
+
