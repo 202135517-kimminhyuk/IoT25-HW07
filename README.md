@@ -38,6 +38,7 @@ The test dataset consists of 10 RSSI readings taken at known distances from the 
 A linear regression was applied to estimate the relationship between **Distance (cm)-x** and **Power (dBm)-y**.
 
 The resulting regression equation was:
+![Unknown](https://github.com/user-attachments/assets/f8dfab62-1028-48ed-9e75-6f9ffb3e27e9)
 <img width="772" alt="스크린샷 2025-05-18 오후 7 28 45" src="https://github.com/user-attachments/assets/6eb96b64-9fce-4e67-a609-002bbf46bf64" />
 
 ## Observations
